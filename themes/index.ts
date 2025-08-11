@@ -1,4 +1,4 @@
-import type { ConfigThemes } from '@nextui-org/theme'
+import type { ConfigThemes } from '@heroui/theme'
 import { bluePurpleDark, bluePurpleLight } from './bluePurple'
 import { orangeDark, orangeLight } from './orangeRed'
 import { greenDark, greenLight } from './green'

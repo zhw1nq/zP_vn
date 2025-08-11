@@ -1,4 +1,4 @@
-import type { ConfigTheme } from '@nextui-org/theme'
+import type { ConfigTheme } from '@heroui/theme'
 
 const green: ConfigTheme['colors'] = {
 	primary: {
